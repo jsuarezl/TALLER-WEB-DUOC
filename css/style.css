@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: blue;
+}
+
+p {
+  color: black;
+}
+
+.article {
+  width: 300px;
+  float: left;
+  margin-right: 20px;
+}
